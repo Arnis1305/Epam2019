@@ -1,0 +1,12 @@
+D:\University\github\Epam2019\xUnitt\Triangle\Triangle\bin\Debug\Triangle.dll
+D:\University\github\Epam2019\xUnitt\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\University\github\Epam2019\xUnitt\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\University\github\Epam2019\xUnitt\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\University\github\Epam2019\xUnitt\Triangle\Triangle\obj\Debug\Triangle.dll
+D:\University\github\Epam2019\xUnitt\Triangle\Triangle\obj\Debug\Triangle.pdb
+D:\University\github\Epam2019\xUnit\Triangle\Triangle\bin\Debug\Triangle.dll
+D:\University\github\Epam2019\xUnit\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\University\github\Epam2019\xUnit\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\University\github\Epam2019\xUnit\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\University\github\Epam2019\xUnit\Triangle\Triangle\obj\Debug\Triangle.dll
+D:\University\github\Epam2019\xUnit\Triangle\Triangle\obj\Debug\Triangle.pdb
