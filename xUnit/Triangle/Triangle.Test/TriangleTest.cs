@@ -7,12 +7,12 @@ namespace Triangle.Test
     public class TriangleTest
     {
         [TestMethod]
-        public void TriangleCheck_10and10and10_returnedFalse()
+        public void TriangleCheck_5and3and6_returnedTrue()
         {
-            float a = 10;
-            float b = 10;
-            float c = 10;
-            bool expected = false;
+            float a = 5;
+            float b = 3; 
+            float c = 6;
+            bool expected = true;
 
             TriangleC t = new TriangleC();
             bool actual = t.TriangleCheck(a, b, c);
@@ -105,12 +105,12 @@ namespace Triangle.Test
         }
 
         [TestMethod]
-        public void TriangleCheck_1and2and5_returnedTrue()
+        public void TriangleCheck_1and2and5_returnedFalse()
         {
             float a = 1;
             float b = 2;
             float c = 5;
-            bool expected = true;
+            bool expected = false;
 
             TriangleC t = new TriangleC();
             bool actual = t.TriangleCheck(a, b, c);
