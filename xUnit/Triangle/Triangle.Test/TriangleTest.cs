@@ -7,7 +7,7 @@ namespace Triangle.Test
     public class TriangleTest
     {
         [TestMethod]
-        public void TriangleCheck_5and3and6_returnedTrue()
+        public void TriangleCheck_0and3and6_returnedFalse()
         {
             float a = 0;
             float b = 3; 
