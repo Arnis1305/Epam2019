@@ -46,6 +46,15 @@ namespace SeleniumWebDriver
             IWebElement SearhInputLine = BrouserGoogleChromeSecondTest.FindElement(By.Name("q-destination"));
 
             SearhInputLine.SendKeys("" + OpenQA.Selenium.Keys.Enter);
+
+
+            var element = BrouserGoogleChromeSecondTest.FindElement(By.XPath("//span[@class = 'icons icon--alert']"));
+            String elementErr = element.Text;
+            if(elementErr.Length > 0)
+            {
+                Test2TextBox.Text = elementErr;
+            }
+            
         }
 
         private void StopSecondTestButton_Click(object sender, EventArgs e)

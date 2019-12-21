@@ -1,0 +1,256 @@
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\NUnit3.TestAdapter.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\NUnit3.TestAdapter.pdb
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\nunit.engine.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\nunit.engine.api.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\GitHubAutomation.dll.config
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\GitHubAutomation.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\GitHubAutomation.pdb
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\netstandard.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.AppContext.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Collections.Concurrent.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Collections.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Collections.NonGeneric.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Collections.Specialized.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.ComponentModel.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.ComponentModel.Primitives.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Console.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Data.Common.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Contracts.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Debug.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Process.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Tools.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Tracing.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Drawing.Primitives.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Dynamic.Runtime.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Globalization.Calendars.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Globalization.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Globalization.Extensions.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.Compression.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.FileSystem.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.IsolatedStorage.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.Pipes.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Linq.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Linq.Expressions.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Linq.Parallel.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Linq.Queryable.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.Http.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.NameResolution.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.NetworkInformation.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.Ping.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.Primitives.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.Requests.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.Security.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.Sockets.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.WebSockets.Client.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Net.WebSockets.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.ObjectModel.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Reflection.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Reflection.Extensions.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Reflection.Primitives.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Resources.Reader.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Resources.ResourceManager.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Resources.Writer.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.Extensions.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.Handles.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.InteropServices.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.Numerics.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Security.Claims.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Security.Principal.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Security.SecureString.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Text.Encoding.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Text.RegularExpressions.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Threading.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Threading.Overlapped.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Threading.Tasks.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Threading.Thread.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Threading.ThreadPool.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Threading.Timer.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.ValueTuple.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Xml.ReaderWriter.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Xml.XDocument.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Xml.XmlDocument.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Xml.XmlSerializer.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Xml.XPath.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\AngleSharp.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\log4net.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\nunit.framework.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\WebDriver.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\WebDriver.Support.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\WebDriverManager.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\AngleSharp.xml
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\log4net.xml
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\nunit.framework.pdb
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\nunit.framework.xml
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\WebDriver.xml
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\bin\Debug\WebDriver.Support.xml
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.csprojAssemblyReference.cache
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.csproj.CoreCompileInputs.cache
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.csproj.CopyComplete
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.dll
+D:\University\github\Log\epam-master gelliz\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.pdb
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\NUnit3.TestAdapter.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\NUnit3.TestAdapter.pdb
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\nunit.engine.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\nunit.engine.api.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\GitHubAutomation.dll.config
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\GitHubAutomation.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\GitHubAutomation.pdb
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\netstandard.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.AppContext.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Collections.Concurrent.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Collections.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Collections.NonGeneric.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Collections.Specialized.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.ComponentModel.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.ComponentModel.Primitives.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Console.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Data.Common.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Contracts.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Debug.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Process.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Tools.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Diagnostics.Tracing.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Drawing.Primitives.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Dynamic.Runtime.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Globalization.Calendars.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Globalization.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Globalization.Extensions.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.Compression.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.FileSystem.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.IsolatedStorage.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.Pipes.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Linq.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Linq.Expressions.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Linq.Parallel.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Linq.Queryable.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.Http.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.NameResolution.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.NetworkInformation.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.Ping.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.Primitives.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.Requests.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.Security.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.Sockets.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.WebSockets.Client.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Net.WebSockets.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.ObjectModel.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Reflection.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Reflection.Extensions.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Reflection.Primitives.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Resources.Reader.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Resources.ResourceManager.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Resources.Writer.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.Extensions.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.Handles.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.InteropServices.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.Numerics.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Security.Claims.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Security.Principal.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Security.SecureString.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Text.Encoding.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Text.RegularExpressions.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Threading.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Threading.Overlapped.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Threading.Tasks.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Threading.Thread.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Threading.ThreadPool.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Threading.Timer.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.ValueTuple.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Xml.ReaderWriter.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Xml.XDocument.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Xml.XmlDocument.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Xml.XmlSerializer.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Xml.XPath.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\AngleSharp.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\log4net.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\nunit.framework.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\WebDriver.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\WebDriver.Support.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\WebDriverManager.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\AngleSharp.xml
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\log4net.xml
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\nunit.framework.pdb
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\nunit.framework.xml
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\WebDriver.xml
+D:\University\github\Epam2019\Framework\GitHubAutomation\bin\Debug\WebDriver.Support.xml
+D:\University\github\Epam2019\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.csprojAssemblyReference.cache
+D:\University\github\Epam2019\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.csproj.CoreCompileInputs.cache
+D:\University\github\Epam2019\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.csproj.CopyComplete
+D:\University\github\Epam2019\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.dll
+D:\University\github\Epam2019\Framework\GitHubAutomation\obj\Debug\GitHubAutomation.pdb

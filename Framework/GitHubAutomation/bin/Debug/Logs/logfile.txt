@@ -1,0 +1,45 @@
+Test_Successfully: 19-12-19_09-05-13
+Test_Successfully: 19-12-19_09-21-50
+Test_Successfully: 19-12-19_09-26-23
+Test_Successfully: 19-12-19_09-28-41
+Test_Successfully: 19-12-19_09-29-56
+Test_Successfully: 19-12-19_09-40-49
+Test_Successfully: 19-12-19_10-45-46
+Test_Failure: 19-12-19_10-46-02
+Test_Successfully: 19-12-19_10-46-02
+Test_Successfully: 19-12-19_10-46-23
+Test_Failure: 19-12-19_10-46-43
+Test_Successfully: 19-12-19_10-46-43
+Test_Failure: 19-12-19_10-47-02
+Test_Successfully: 19-12-19_10-47-02
+Test_Successfully: 19-12-19_10-47-18
+Test_Successfully: 19-12-19_10-47-36
+Test_Successfully: 19-12-19_10-47-49
+Test_Successfully: 19-12-19_10-48-04
+Test_Successfully: 19-12-19_10-48-17
+Test- Search with wrong destination, time: 19-12-19_10-52-37
+Test_Successfully: 19-12-19_10-52-38
+Test- Search with empty surname, time: 19-12-19_10-56-38
+Test_Successfully: 19-12-19_10-56-39
+Test- Search with empty surname(Rise error to take screen ), time: 19-12-19_10-56-47
+Test_Failure: 19-12-19_10-56-49
+Test_Successfully: 19-12-19_10-56-49
+Test- Search with wrong surname, time: 19-12-19_10-57-00
+Test_Successfully: 19-12-19_10-57-03
+Test- Search with wrong surname(Rise error to take screen), time: 19-12-19_10-57-15
+Test_Failure: 19-12-19_10-57-18
+Test_Successfully: 19-12-19_10-57-18
+Test- Search hotel with wrong destination, time: 19-12-19_10-57-27
+Test_Failure: 19-12-19_10-57-29
+Test_Successfully: 19-12-19_10-57-29
+Test- Search with empty booking number , time: 19-12-19_10-57-39
+Test_Successfully: 19-12-19_10-57-40
+Test- Search with empty destination, time: 19-12-19_10-57-50
+Test_Successfully: 19-12-19_10-57-51
+Test- Search with empty destination without guests, time: 19-12-19_10-58-00
+Test_Failure: 19-12-19_10-58-01
+Test_Successfully: 19-12-19_10-58-01
+Test- Search with wrong booking number, time: 19-12-19_10-58-14
+Test_Successfully: 19-12-19_10-58-15
+Test- Search with wrong destination, time: 19-12-19_10-58-25
+Test_Successfully: 19-12-19_10-58-25

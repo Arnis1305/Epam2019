@@ -32,6 +32,7 @@
             this.StopFirstTestButton = new System.Windows.Forms.Button();
             this.StartSecondTestButton = new System.Windows.Forms.Button();
             this.StopSecondTestButton = new System.Windows.Forms.Button();
+            this.Test2TextBox = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // StartFirstTestButtonClick
@@ -74,11 +75,19 @@
             this.StopSecondTestButton.UseVisualStyleBackColor = true;
             this.StopSecondTestButton.Click += new System.EventHandler(this.StopSecondTestButton_Click);
             // 
+            // Test2TextBox
+            // 
+            this.Test2TextBox.Location = new System.Drawing.Point(307, 368);
+            this.Test2TextBox.Name = "Test2TextBox";
+            this.Test2TextBox.Size = new System.Drawing.Size(100, 22);
+            this.Test2TextBox.TabIndex = 4;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Test2TextBox);
             this.Controls.Add(this.StopSecondTestButton);
             this.Controls.Add(this.StartSecondTestButton);
             this.Controls.Add(this.StopFirstTestButton);
@@ -86,6 +95,7 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -95,6 +105,7 @@
         private System.Windows.Forms.Button StopFirstTestButton;
         private System.Windows.Forms.Button StartSecondTestButton;
         private System.Windows.Forms.Button StopSecondTestButton;
+        private System.Windows.Forms.TextBox Test2TextBox;
     }
 }
 
